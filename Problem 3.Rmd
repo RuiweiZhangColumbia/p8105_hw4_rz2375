@@ -1,0 +1,10 @@
+---
+title: "Problem 3"
+author: "Ruiwei Zhang"
+date: "10/24/2017"
+output:
+   html_document:
+    toc: true
+    toc_float: true
+---
+

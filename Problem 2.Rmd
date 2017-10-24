@@ -1,0 +1,19 @@
+---
+title: "Problem 2"
+author: "Ruiwei Zhang"
+date: "10/24/2017"
+output: 
+   html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r getting_ready}
+library(tidyverse)
+library(haven)
+library(janitor)
+library(readxl)
+library(ggridges)
+library(ggthemes)
+library(knitr)
+```
